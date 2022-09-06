@@ -1,0 +1,21 @@
+{
+  "name": "cn.unity.hairfx.hdrp",
+  "description": "The Unity HairFX Shaders for High Definition Render Pipeline (HDRP)\n\nSupport Platforms:\nFrom mobile to high-end consoles and PC.\n\nPrerequisite\r:\nHDRP version 12.x.x & Unity Editor version 2021.2.x  or Newer",
+  "version": "0.9.0",
+  "unity": "2021.2",
+  "displayName": "HairFX HD Pipeline",
+  "keywords": [
+    "unity",
+    "hair",
+    "hairfx",
+    "strand",
+    "fur"
+  ],
+  "repository": {
+    "url": "https://github.com/Unity-China/cn.unity.hairfx.hdrp.git",
+    "type": "git"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "12.1.4"
+  }
+}

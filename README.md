@@ -15,6 +15,7 @@ This Package included a Custom Hair ShaderGraph Shader supports for High Definit
 ## Note
 
 - This Package required a dependency: [cn.unity.hairfx.core](https://github.com/Unity-China/cn.unity.hairfx.core)
+- HDRP Defender Character Demo project [here](https://github.com/UnityTechnologies/HDRP-Defender-Character-Demo)
 
 ## Usage
 

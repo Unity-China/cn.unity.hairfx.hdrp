@@ -30,5 +30,4 @@ Declare the package and its dependencies as git dependencies in `Packages/manife
 ```
 
 ## Related links
-[HairFX Core](https://github.com/Unity-China/cn.unity.hairfx.core)
-[AMD TressFX](https://github.com/GPUOpen-Effects/TressFX)
+[AMD TressFX github](https://github.com/GPUOpen-Effects/TressFX)
